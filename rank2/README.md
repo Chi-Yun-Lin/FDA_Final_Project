@@ -4,7 +4,7 @@
 ## rank2.ipynb
 code & analysis
 
-## FDA_Project_Code
+## FDA_Project_Code.ipynb
 final project
 
 ## Final Edit
